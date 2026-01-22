@@ -4,7 +4,7 @@
     padding: 0 20px;
 }
 
-/* Header */
+
 .header {
     background-color: var(--color-white);
     border-bottom: 1px solid var(--color-border);
@@ -22,12 +22,12 @@
     gap: 30px;
 }
 
-/* Main */
+
 main {
     min-height: calc(100vh - 200px);
 }
 
-/* Sections */
+
 .section {
     padding: 60px 0;
 }
@@ -41,7 +41,7 @@ main {
     margin-bottom: 40px;
 }
 
-/* Grid */
+
 .grid {
     display: grid;
     gap: 30px;
@@ -59,7 +59,7 @@ main {
     grid-template-columns: repeat(4, 1fr);
 }
 
-/* Hero */
+
 .hero {
     padding: 80px 0;
     text-align: center;
@@ -70,7 +70,7 @@ main {
     margin: 0 auto;
 }
 
-/* Footer */
+
 .footer {
     background-color: var(--color-main);
     color: var(--color-white);
@@ -91,14 +91,14 @@ main {
     color: rgba(255,255,255,0.6);
 }
 
-/* Contact Grid */
+
 .contact-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 50px;
 }
 
-/* Responsive */
+
 @media (max-width: 992px) {
     .grid-4 {
         grid-template-columns: repeat(2, 1fr);

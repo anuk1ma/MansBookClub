@@ -1,11 +1,11 @@
-/* Logo */
+
 .logo {
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--color-main);
 }
 
-/* Navigation */
+
 .nav-link {
     color: var(--color-light);
 }
@@ -16,7 +16,7 @@
     text-decoration: none;
 }
 
-/* Buttons */
+
 .btn {
     display: inline-block;
     padding: 12px 30px;
@@ -41,7 +41,7 @@
     color: var(--color-white);
 }
 
-/* Cards */
+
 .card {
     background-color: var(--color-white);
     border: 1px solid var(--color-border);
@@ -73,7 +73,7 @@
     margin-top: 10px;
 }
 
-/* Book Cover Placeholder */
+
 .book-cover {
     height: 280px;
     background-color: #f0ebe3;
@@ -97,7 +97,7 @@
     padding: 10px;
 }
 
-/* Page Header */
+
 .page-header {
     background-color: var(--color-white);
     padding: 50px 0;
@@ -110,7 +110,7 @@
     margin-top: 10px;
 }
 
-/* Footer */
+
 .footer-title {
     font-size: 1.1rem;
     margin-bottom: 15px;
@@ -133,7 +133,7 @@
     line-height: 1.8;
 }
 
-/* Forms */
+
 .form-group {
     margin-bottom: 20px;
 }
@@ -165,7 +165,7 @@
     resize: vertical;
 }
 
-/* Contact Item */
+
 .contact-item {
     margin-bottom: 25px;
 }
@@ -179,7 +179,7 @@
     margin-bottom: 0;
 }
 
-/* Simple Feature */
+
 .feature {
     text-align: center;
     padding: 30px 20px;
